@@ -1,0 +1,48 @@
+.pizza-pic{
+    height: 250px;
+    width: 270px;
+    transition: .3s;
+}
+.pizza-pic:hover{
+    transform: scale(1.1);
+}
+
+.card{
+    width: 270px;
+    overflow: hidden;
+    border: 2px solid #f0ecee;
+    border-radius: 10px;
+    background: #F7F7F7;
+}
+input{
+    width: 106px;
+    height: 46px;
+    outline: none;
+    background: rgba(255, 255, 0, 0.267);
+    color: #030303 !important;
+    font-weight: bold;
+    font-size: 26px;
+}
+button#add{
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    font-weight: bold;
+}
+button#sub{
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    font-weight: bold;
+}
+body{
+    background: #444;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
