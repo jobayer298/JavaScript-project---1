@@ -1,2 +1,2 @@
-I have created a little project.HTML,CSS,Bootstrap and js are used there.so in this project the quantity of pizza is shown and there is two button for adding and subtracting.So if you click on 
+I have created a little project.HTML,CSS,Bootstrap and js are used there.so in this project the quantity of pizza is shown and there is two buttons for adding and subtracting.So if you click on 
 (+) button then the quantity number will be increasing and if click on (-) button then number will be decreasing. That's all about the project.
